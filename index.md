@@ -1,7 +1,7 @@
 ---
-title: /
+title: S0LIPSISM
 layout: home
-permalink: /
+permalink: S0LIPSISM
 ---
 
 # Lorem ipsum
